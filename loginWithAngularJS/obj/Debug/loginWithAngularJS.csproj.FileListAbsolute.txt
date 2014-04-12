@@ -1,0 +1,6 @@
+C:\Users\jorge.MODALEN\Source\Workspaces\login\loginWithAngularJS\obj\Debug\loginWithAngularJS.csprojResolveAssemblyReference.cache
+C:\Users\jorge.MODALEN\Source\Workspaces\login\loginWithAngularJS\bin\loginWithAngularJS.dll.config
+C:\Users\jorge.MODALEN\Source\Workspaces\login\loginWithAngularJS\bin\loginWithAngularJS.dll
+C:\Users\jorge.MODALEN\Source\Workspaces\login\loginWithAngularJS\bin\loginWithAngularJS.pdb
+C:\Users\jorge.MODALEN\Source\Workspaces\login\loginWithAngularJS\obj\Debug\loginWithAngularJS.dll
+C:\Users\jorge.MODALEN\Source\Workspaces\login\loginWithAngularJS\obj\Debug\loginWithAngularJS.pdb
