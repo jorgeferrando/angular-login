@@ -5,3 +5,6 @@
 /loginWithAngularJS/Web.config
 /loginWithAngularJS/Web.Debug.config
 /loginWithAngularJS/Web.Release.config
+/loginWithAngularJS/Properties/
+/loginWithAngularJS/bin/
+/loginWithAngularJS/obj/
