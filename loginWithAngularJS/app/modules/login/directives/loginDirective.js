@@ -2,7 +2,13 @@
     return function (){
         return {
             restrict: 'A',
-            templateUrl: 'app/modules/login/directives/form.html'
+            replace: true,
+            templateUrl: 'app/modules/login/directives/form.html',
+            scope: {
+                email: "=",
+                password: "=",
+                doLogin: "&"
+            }
         }
     }
 })
